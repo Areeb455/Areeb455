@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-I'm a passionate developer with a focus on building innovative solutions in **Android Development**, **Artificial Intelligence**, and **Network Engineering**. I enjoy tackling complex problems and turning ideas into reality through code.
+
 
 ---
 
@@ -28,7 +28,7 @@ I'm a passionate developer with a focus on building innovative solutions in **An
 
 ---
 
-### 📊 My GitHub Stats & Streak
+ ### GitHub Stats & Streak
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -41,7 +41,7 @@ I'm a passionate developer with a focus on building innovative solutions in **An
 
 ---
 
-### 💻 My Tech Stack
+###  My Tech Stack
 
 Here are some of the technologies I've been working with recently:
 
@@ -100,23 +100,9 @@ Here are some of the technologies I've been working with recently:
 
 ---
 
-### 🚀 My Projects
 
-Here are a few projects I've worked on. You can find more on my repositories page!
 
-| Project                                    | Description                                                                                             | Technologies Used                        |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| 🐮 **CattleApp** | An AI-powered Android app for classifying and identifying cattle breeds from images. Built with a modern UI. | `Kotlin`, `Jetpack Compose`, `TensorFlow Lite` |
-| 🌐 **Network Monitoring Tool** | A desktop or web application to monitor, analyze, and visualize network traffic for security insights.     | `Python`, `C`, `Docker`                  |
-| 📝 **[Your Next Project Name]** | A brief, exciting description of what you're building next!                                             | `[Tech Stack]`                           |
 
----
-
-### 🌱 What I'm Learning
-
-- 🧠 Exploring advanced concepts in Transformers and Large Language Models.
-- 🛠️ Deepening my knowledge of systems programming with Rust.
-- ☁️ Getting hands-on experience with cloud-native technologies and CI/CD pipelines.
 
 ---
 <!---
